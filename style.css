@@ -1,0 +1,16 @@
+body {
+    background-color: #F5E8C7;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkgreen;
+    border-width: 5px;
+    height: 0px; /*Only single line so height is 0 */
+    width: 5%;
+}
+h2 { 
+    color: rgb(207, 98, 15);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
